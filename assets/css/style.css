@@ -1028,7 +1028,7 @@ footer {
 
     /* ── HERO: strip the huge desktop padding, drive spacing from inner ── */
     .hero {
-        padding-top: 0;
+        padding-top: 70px;
         padding-bottom: 2rem;
         min-height: auto;
     }
@@ -1044,7 +1044,7 @@ footer {
     .hero-image {
         height: auto;
         border-radius: 0;
-        margin-top: -1.5rem;
+        margin-top: 0;
     }
 
     .hero-logo {
