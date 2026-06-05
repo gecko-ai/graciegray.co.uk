@@ -542,7 +542,7 @@ header.scrolled .nav-links {
 .pull-quote {
     background-color: var(--cream-dark);
     text-align: center;
-    padding: 4rem 2rem;
+    padding: 4rem 2rem 1.5rem 2rem;
 }
 
 .pull-quote blockquote {
