@@ -1114,14 +1114,26 @@ footer {
         gap: 0;
     }
 
+    .pillars-header {
+        margin-bottom: 1rem;
+    }
+
     .pillar {
-        padding: 1.2rem 1rem;
+        padding: 0.5rem 1rem;
     }
 
     .pillar-icon {
-        width: 56px;
-        height: 56px;
-        margin-bottom: 1rem;
+        width: 48px;
+        height: 48px;
+        margin-bottom: 0.5rem;
+    }
+
+    .pillar h3 {
+        margin-bottom: 0.4rem;
+    }
+
+    .pillar p {
+        margin-bottom: 0;
     }
 
     .credentials-grid {
